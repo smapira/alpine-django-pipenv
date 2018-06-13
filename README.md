@@ -1,6 +1,6 @@
-# alpine-django-pipenv Minimal Rails image (virtual xxx MB)
+# alpine-django-pipenv Minimal django image (virtual xxx MB)
 
-This is a *VERY* small mri Rails Image, based on the [ruby:2.4.1-alpine](https://hub.docker.com/_/ruby/).
+This is a *VERY* small mri django Image, based on the [python:3.6-alpine](https://hub.docker.com/_/python/).
 
 ## Install
 
